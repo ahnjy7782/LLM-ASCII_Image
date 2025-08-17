@@ -43,6 +43,6 @@ json 파일로 제작시 다음과 같은 형태가 됩니다.
   },
 ]
 ```
-이렇게 만들어진 데이터 집합체는 다음과 같습니다 [Synapse-ASCII_Image-Dataset](https://huggingface.co/datasets/RstoneCommand/Synapse-ASCII_image_v01/blob/main/Synapse-ASCII_image_v02.json)
+이렇게 만들어진 데이터 집합체는 다음과 같습니다. => [Synapse-ASCII_Image-Dataset](https://huggingface.co/datasets/RstoneCommand/Synapse-ASCII_image_v01/blob/main/Synapse-ASCII_image_v02.json)
 
  
